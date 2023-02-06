@@ -4,4 +4,4 @@ Repo to group all the projects done for the FreeCodeCamp Back End Development an
 All Projects are also hosted on GitHub and they were added to this repo as submodules.
 
 ## Certification
-You can verfify the certification [here](https://freecodecamp.org/certification/dpertierra/back-end-development-and-apis)
+You can verify the certification [here](https://freecodecamp.org/certification/dpertierra/back-end-development-and-apis)
