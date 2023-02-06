@@ -1,0 +1,15 @@
+[submodule "filemetadata"]
+	path = filemetadata
+	url = https://github.com/dpertierra/filemetadata
+[submodule "headerparser"]
+	path = headerparser
+	url = https://github.com/dpertierra/headerparser
+[submodule "urlshortener"]
+	path = urlshortener
+	url = https://github.com/dpertierra/urlshortener
+[submodule "exercisetracker"]
+	path = exercisetracker
+	url = https://github.com/dpertierra/exercisetracker
+[submodule "timestamp-microservice-freecodecamp"]
+	path = timestamp-microservice-freecodecamp
+	url = https://github.com/dpertierra/timestamp-microservice-freecodecamp
